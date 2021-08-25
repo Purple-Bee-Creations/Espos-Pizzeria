@@ -1,0 +1,2610 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Victoria\n"
+"POT-Creation-Date: 2014-05-14 19:53+0530\n"
+"PO-Revision-Date: 2014-05-14 19:54+0530\n"
+"Last-Translator: info@aivahthemes.com <info@aivahthemes.com>\n"
+"Language-Team: AivahThemes <info@aivahthemes.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:24 ../template_sitemap.php:38
+msgid "Pages"
+msgstr ""
+
+#: ../404.php:30
+msgid "Feed"
+msgstr ""
+
+#: ../404.php:32 ../template_sitemap.php:45
+msgid "Main RSS"
+msgstr ""
+
+#: ../404.php:33 ../template_sitemap.php:46
+msgid "Comment Feed"
+msgstr ""
+
+#: ../404.php:39 ../template_sitemap.php:51
+msgid "Categories"
+msgstr ""
+
+#: ../404.php:42 ../sidebar-home.php:25 ../template_sitemap.php:56
+msgid "Archives"
+msgstr ""
+
+#: ../404.php:56 ../archive.php:43 ../author.php:67 ../category.php:41
+#: ../index.php:21 ../page.php:64 ../search.php:86 ../single-menus.php:28
+#: ../single.php:43 ../tag.php:73 ../taxonomy-menutype.php:68
+#: ../template_blog-style1.php:111 ../template_blog-style2.php:107
+#: ../template_blog-style3.php:114 ../template_menu.php:118
+#: ../template_reservation.php:289 ../template_sitemap.php:72
+msgid "Top"
+msgstr ""
+
+#: ../author.php:31
+#, php-format
+msgid "Author : %s"
+msgstr ""
+
+#: ../comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:34
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:59
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:59
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:62
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr ""
+
+#: ../comments.php:70
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:74 ../framework/custom-meta/shortcode-meta.php:1998
+#: ../framework/shortcode/contactform.php:11
+#: ../framework/shortcode/contactform.php:35
+#: ../framework/widgets/contactform.php:55
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:78 ../framework/shortcode/contactform.php:12
+#: ../framework/shortcode/contactform.php:36
+msgid "E-mail"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:92
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:93
+msgid "You can use these tags"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:91
+#, php-format
+msgid "Howdy, %1$s"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:1307
+msgid "Upload"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:1330
+msgid "View File"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:1405
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:127
+msgid ""
+"Select which logo type you want to display Text / Logo Image for the theme."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:138
+msgid ""
+"Upload a logo for your theme, or specify the image address of your online "
+"logo. (http://yoursite.com/logo.png)"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:145
+msgid "Site Title if you don't want to use the logo image."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:157
+msgid "Site Description (In a few words, explain what this site is about.)"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:168
+msgid "Logo Top Padding - example : 20px 0 20px 0"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:175
+msgid "Logo Bottom Padding - example : 20px 0 20px 0 "
+msgstr ""
+
+#: ../framework/admin/theme-options.php:182
+msgid ""
+"Upload a 16px x 16px ICO icon format that will represent your website's "
+"favicon."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:188
+msgid "Teaser call out for the subheader section of the theme."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:215
+msgid "Select the layout option BOXED LAYOUT or STRETCHED LAYOUT"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:236
+msgid "Background Color for the Homepage Teaser Area Below the Header."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:308
+msgid "Select the alternative color scheme for this Theme "
+msgstr ""
+
+#: ../framework/admin/theme-options.php:316
+#: ../framework/admin/theme-options.php:344
+msgid ""
+"Select the Background Image for Body and assign its Properties according to "
+"your requirements."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:327
+msgid ""
+"Pattern overlay on the body background color or image, displays on if the "
+"layout is selected as boxed in General Options Panel"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:355
+msgid ""
+"Theme Color set to default with theme if you choose color from here it will "
+"change all the links and backgrounds used in the theme."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:361
+msgid ""
+"This will apply color to the content area of theme which is of width 980px "
+"wide."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:371
+msgid ""
+"Select the Background Image for Subheader and assign its Properties "
+"according to your requirements."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:382
+msgid "Text Color for the Suheader Area Below the Header in sub pages."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:388
+msgid "Subheader Padding Top"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:396
+msgid "Subheader Padding Bottom"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:408
+msgid ""
+"Footer background color includes the sidebar footer widgets area as well. "
+"you can disable this sidebar footer area in Footer Tab and disable the "
+"sidebar footer."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:414
+msgid "Footer text including paragraph element, (without links)."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:420
+msgid "Select the Color and Font Properties for Footer Widget Title."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:432
+msgid "Copyright area below the footer sidebar footer. (background color)."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:438
+msgid "Select the Color and Font Properties for Copyright Font."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:453
+msgid "Menu Bar Background Color below the header - primary menu."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:459
+msgid "Select the Color and Font Properties for Menu Parent List Font"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:470
+msgid "Select the Color and Font Properties for Menu Dropdown Font"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:481
+msgid "Menu Hover Link Color (parent menu link hover color) "
+msgstr ""
+
+#: ../framework/admin/theme-options.php:487
+msgid "Menu Hover Background Color"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:494
+msgid "Dropdown Menu Hover Link Color (.sf-menu li li a:hover color) "
+msgstr ""
+
+#: ../framework/admin/theme-options.php:500
+msgid "Dropdown Menu Hover BG Color (s.f-menu li li:hover ) "
+msgstr ""
+
+#: ../framework/admin/theme-options.php:511
+msgid "Default theme links color"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:517
+msgid "Default theme links mousehover color"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:523
+msgid "Links under subheader section"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:529
+msgid "Links mouse-hover under subheader section"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:535
+msgid "Breadcrumbs below the subheader section, (link color)."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:541
+msgid "Breadcrumbs below the subheader section, (link hover color)."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:547
+msgid "Blog Post Title Link Hover color."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:553
+msgid "Footer containing links under widget or text widget, (link color)."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:559
+msgid ""
+"Footer content containing any links under widget or text widget, (link hover "
+"color)."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:565
+msgid "Copyright content containing any links color. (link color)."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:615
+msgid "Select the Color Properties for Body Font"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:778
+msgid ""
+"Quickly add some CSS of your own choice to your theme by adding it to this "
+"block."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:814
+msgid "Enter the limit for Slides you want to hold on the Flex Slider"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:822
+msgid "Enter the limit for Slide speed you want to set"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:831
+msgid "String: Select your animation type, \"fade\" or \"slide\""
+msgstr ""
+
+#: ../framework/admin/theme-options.php:842
+msgid "Select: Create navigation for previous/next navigation arrows?"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:853
+msgid "Create navigation for paging control of each slide?"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:895
+msgid ""
+"Check this if you wish to disable the Author Info Box in post single page at "
+"the end of the post"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:901
+msgid ""
+"Check this if you wish to disable the related posts in post single page "
+"(based on tags)."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:907
+msgid "Select if you want to display comments on posts and/or pages."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:917
+msgid ""
+"Selected categories will hold the posts to display in blog page template. "
+"( template : template_blog.php)"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:954
+msgid "Check this if you wish to disable next/previous Post Single Page"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:973
+msgid ""
+"Create the desired name for your site sidebars and go to widgets which will "
+"appear in rightsidebar below the footer column widgets. After assigning the "
+"widgets in the prefered sidebar you can assign the sidebar to individual "
+"pages/posts. Find the custom sidebar in rightside of the wordpress admin "
+"panels."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:1040
+msgid ""
+"Click Add New to add sociables where you can edit/add/delete.<br><br> If you "
+"want to have a different icon please you icon png or gif file in sociables "
+"directory located in theme images directory"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:1081
+msgid "Readmore text which appears on Post Excerpt."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:1088
+msgid "Custom text which appears on Post Single Page in Subheader Area."
+msgstr ""
+
+#: ../framework/admin/theme-options.php:1095
+msgid "Custom text which appears on 404 Error page"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:1104
+#: ../framework/admin/theme-options.php:1111
+#: ../framework/admin/theme-options.php:1118
+#: ../framework/admin/theme-options.php:1125
+#: ../framework/admin/theme-options.php:1132
+#: ../framework/admin/theme-options.php:1139
+#: ../framework/admin/theme-options.php:1146
+msgid "Custom text which appears on Reservation Form"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:1157
+msgid "Custom text which appears on Business Hours when the day is closed"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:1292
+msgid ""
+"Custom shortcodes defined for this theme in use for the Email Message "
+"systems<br><br> \n"
+"\t\t\t\t\t\t\t\t\t<b>[contact_name]</b> - <em>Name of the Customer</em><br>\n"
+"\t\t\t\t\t\t\t\t\t<b>[contact_email]</b> - <em>Email of the Customer</em> "
+"<br>\n"
+"\t\t\t\t\t\t\t\t\t<b>[reservation_date]</b> - <em>Date of Reservation</em> "
+"<br>\n"
+"\t\t\t\t\t\t\t\t\t<b>[reservation_time]</b> - <em>Time of Reservation</"
+"em><br>\n"
+"\t\t\t\t\t\t\t\t\t<b>[booking_id]</b> - <em>Reservation Booking Id</em><br>\n"
+"\t\t\t\t\t\t\t\t\t<b>[contact_phone]</b> - <em>Customer Phone Number </"
+"em><br>\n"
+"\t\t\t\t\t\t\t\t\t<b>[reservation_note]</b> - <em>Reservation Instructions "
+"or Note</em>.<br>"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:1427
+msgid "Price Background Color for the Food Items."
+msgstr ""
+
+#: ../framework/common/atp_generator.php:311
+msgid "Archive"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:313
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:315
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:315
+msgid "F Y"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:317
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:317
+msgid "Y"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:325 ../tag.php:19
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:330 ../search.php:14
+msgid "Search Results"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:334
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:473
+#: ../framework/common/atp_generator.php:500
+msgid "0 Comment"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:473
+#: ../framework/common/atp_generator.php:500
+#: ../framework/common/atp_generator.php:521 ../loop.php:23
+msgid "1 Comment"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:473
+#: ../framework/common/atp_generator.php:500
+#: ../framework/common/atp_generator.php:521 ../loop.php:23
+msgid "% Comments"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:521
+msgid "0 comment"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:547
+msgid "Home"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:551
+msgid "Blog"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:597
+msgid "Related Posts"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:703
+msgid "Pingback:"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:703
+#: ../framework/common/atp_generator.php:730
+#: ../framework/common/atp_generator.php:776 ../page.php:40
+#: ../template_menu.php:107
+msgid "Edit"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:719
+#, php-format
+msgid "%1$s %2$s <span class=\"says\">said:</span>"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:725
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:734
+#: ../framework/common/atp_generator.php:781
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/common/atp_generator.php:742
+msgid "Reply"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:761
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:762
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:22
+#: ../framework/custom-meta/post-meta.php:16
+msgid "Subheader Options"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:23
+#: ../framework/custom-meta/post-meta.php:17
+msgid ""
+"Select the Teaser type mode you want to display in subheader of the this Post"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:37
+#: ../framework/custom-meta/post-meta.php:31
+msgid "Teaser Text"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:38
+#: ../framework/custom-meta/post-meta.php:32
+msgid ""
+"Type the text you wish to display in the subheader of this page/post. If you "
+"wish to use bold text then use strong element example &lt;strong&gt;bold "
+"text &lt;/strong&gt;"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:48
+#: ../framework/custom-meta/post-meta.php:42
+msgid "Custom HTML / Shortcode"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:49
+#: ../framework/custom-meta/post-meta.php:43
+msgid ""
+"Type any text or shortcode you wish to display in the subheader area. This "
+"field supports shortcode"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:59
+msgid "Page Background"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:60
+#: ../framework/custom-meta/post-meta.php:54
+msgid "Upload the image for the page background"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:69
+#: ../framework/custom-meta/post-meta.php:63
+msgid "Subheader Background"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:70
+#: ../framework/custom-meta/post-meta.php:64
+msgid "Choose the color for subheader background"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:79
+#: ../framework/custom-meta/post-meta.php:73
+msgid "Subheader Image"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:80
+#: ../framework/custom-meta/post-meta.php:74
+msgid "Upload Subheader Image"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:89
+#: ../framework/custom-meta/post-meta.php:83
+msgid "Custom Sidebar"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:90
+msgid "Select the Sidebar you wish to assign for this page."
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:100
+#: ../framework/custom-meta/post-meta.php:93
+msgid "Layout Option"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:101
+msgid ""
+"Select the Layout style you wish to use for this page, Left Sidebar or Right "
+"Sidebar or Full Width."
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:113
+#: ../framework/custom-meta/post-meta.php:106
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:114
+#: ../framework/custom-meta/post-meta.php:107
+msgid "Check this if you wish to disable the breadcrumb for this page."
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:53
+msgid "Page Background Image"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:84
+msgid "Select the Sidebar you want to assign for this page."
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:94
+msgid ""
+"Select the Layout style you want to use for this page, Left Sidebar or Right "
+"Sidebar or Full Width."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-generator.php:97
+#: ../framework/custom-meta/shortcode-meta.php:2545
+msgid "Send to Editor"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:7
+msgid "Layouts"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:12
+msgid "Two Column Layout"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:16
+#: ../framework/custom-meta/shortcode-meta.php:262
+#: ../framework/custom-meta/shortcode-meta.php:292
+msgid "One Half Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:22
+#: ../framework/custom-meta/shortcode-meta.php:250
+msgid "One Half Last Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:30
+msgid "Three Column Layout"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:34
+#: ../framework/custom-meta/shortcode-meta.php:40
+#: ../framework/custom-meta/shortcode-meta.php:166
+msgid "One Third Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:46
+#: ../framework/custom-meta/shortcode-meta.php:190
+msgid "One Third Last Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:54
+msgid "Four Column Layout"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:58
+#: ../framework/custom-meta/shortcode-meta.php:64
+#: ../framework/custom-meta/shortcode-meta.php:70
+#: ../framework/custom-meta/shortcode-meta.php:202
+#: ../framework/custom-meta/shortcode-meta.php:238
+#: ../framework/custom-meta/shortcode-meta.php:244
+#: ../framework/custom-meta/shortcode-meta.php:268
+#: ../framework/custom-meta/shortcode-meta.php:286
+msgid "One Fourth Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:76
+#: ../framework/custom-meta/shortcode-meta.php:226
+#: ../framework/custom-meta/shortcode-meta.php:274
+#: ../framework/custom-meta/shortcode-meta.php:298
+msgid "One Fourth Last Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:84
+msgid "Five Column Layout"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:88
+#: ../framework/custom-meta/shortcode-meta.php:94
+#: ../framework/custom-meta/shortcode-meta.php:100
+#: ../framework/custom-meta/shortcode-meta.php:106
+#: ../framework/custom-meta/shortcode-meta.php:310
+msgid "One Fifth Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:112
+#: ../framework/custom-meta/shortcode-meta.php:334
+msgid "One Fifth Last Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:120
+msgid "Six Column Layout"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:124
+#: ../framework/custom-meta/shortcode-meta.php:130
+#: ../framework/custom-meta/shortcode-meta.php:136
+#: ../framework/custom-meta/shortcode-meta.php:142
+#: ../framework/custom-meta/shortcode-meta.php:148
+msgid "One Sixth Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:154
+msgid "One Sixth Last Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:162
+msgid "One Third - Two Third"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:172
+msgid "Two Third Content Last"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:180
+msgid "Two Third - One Third"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:184
+msgid "Two Third Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:198
+msgid "One Fourth - Three Fourth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:208
+msgid "Three Fourth Last Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:216
+msgid "Three Fourth - One Fourth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:220
+msgid "Three Fourth Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:234
+msgid "One Fourth - One Fourth - One Half"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:258
+msgid "One Half - One Fourth - One Fourth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:282
+msgid "One Fourth - One Half - One Fourth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:306
+msgid "One Fifth - Four Fifth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:316
+msgid "Four Fifth Last Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:324
+msgid "Four Fifth - One Fifth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:328
+msgid "Four Fifth Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:342
+msgid "Two Fifth - Three Fifth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:346
+msgid "Two Fifth Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:352
+msgid "Three Fifth Last Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:360
+msgid "Three Fifth - Two Fifth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:364
+msgid "Three Fifth Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:370
+msgid "Two Fifth Last Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:382
+msgid "Typography"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:389
+msgid "Drop Cap 1"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:393
+#: ../framework/custom-meta/shortcode-meta.php:425
+#: ../framework/custom-meta/shortcode-meta.php:445
+msgid "Dropcap Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:399
+#: ../framework/custom-meta/shortcode-meta.php:451
+#: ../framework/custom-meta/shortcode-meta.php:544
+#: ../framework/custom-meta/shortcode-meta.php:618
+#: ../framework/custom-meta/shortcode-meta.php:711
+#: ../framework/custom-meta/shortcode-meta.php:831
+msgid "Color (optional)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:421
+msgid "Drop Cap 2"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:431
+#: ../framework/custom-meta/shortcode-meta.php:1179
+msgid "Background Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:441
+msgid "Drop Cap 3"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:461
+msgid "Block Quotes"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:465
+#: ../framework/custom-meta/shortcode-meta.php:852
+#: ../framework/custom-meta/shortcode-meta.php:991
+msgid "Align (optional)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:469
+#: ../framework/custom-meta/shortcode-meta.php:702
+#: ../framework/custom-meta/shortcode-meta.php:822
+#: ../framework/custom-meta/shortcode-meta.php:835
+#: ../framework/custom-meta/shortcode-meta.php:856
+#: ../framework/custom-meta/shortcode-meta.php:893
+#: ../framework/custom-meta/shortcode-meta.php:995
+#: ../framework/custom-meta/shortcode-meta.php:1274
+#: ../framework/custom-meta/shortcode-meta.php:1520
+#: ../framework/custom-meta/shortcode-meta.php:1539
+msgid "Choose one..."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:470
+#: ../framework/custom-meta/shortcode-meta.php:857
+#: ../framework/custom-meta/shortcode-meta.php:996
+#: ../framework/custom-meta/shortcode-meta.php:1275
+#: ../framework/custom-meta/shortcode-meta.php:1540
+msgid "Left"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:471
+#: ../framework/custom-meta/shortcode-meta.php:858
+#: ../framework/custom-meta/shortcode-meta.php:997
+#: ../framework/custom-meta/shortcode-meta.php:1276
+#: ../framework/custom-meta/shortcode-meta.php:1541
+msgid "Right"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:472
+#: ../framework/custom-meta/shortcode-meta.php:859
+#: ../framework/custom-meta/shortcode-meta.php:998
+#: ../framework/custom-meta/shortcode-meta.php:1277
+#: ../framework/custom-meta/shortcode-meta.php:1542
+msgid "Center"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:477
+msgid "Cite Link"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:486
+#: ../framework/custom-meta/shortcode-meta.php:1205
+#: ../framework/custom-meta/shortcode-meta.php:1547
+#: ../framework/custom-meta/shortcode-meta.php:1573
+#: ../framework/custom-meta/shortcode-meta.php:1627
+#: ../framework/custom-meta/shortcode-meta.php:2075
+#: ../framework/custom-meta/shortcode-meta.php:2182
+msgid "Width"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:495
+msgid "Cite (optional)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:501
+#: ../framework/custom-meta/shortcode-meta.php:562
+msgid "Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:511
+msgid "Styled List"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:515
+msgid "List Style"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:565
+msgid ""
+"For List Content use HTML Elements &lt;ul&gt;&lt;li&gt;List Item&lt;/li>&lt;/"
+"ul>"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:573
+#: ../framework/custom-meta/shortcode-meta.php:636
+#: ../framework/custom-meta/shortcode-meta.php:729
+msgid "Icon Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:577
+#: ../framework/custom-meta/shortcode-meta.php:650
+msgid "Icon Style"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:646
+msgid "Icon Links"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:690
+msgid "Href"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:693
+msgid "Use \"http://\" Before the URL"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:698
+#: ../framework/custom-meta/shortcode-meta.php:818
+msgid "Target (optional)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:703
+#: ../framework/custom-meta/shortcode-meta.php:823
+#: ../framework/custom-meta/shortcode-meta.php:1521
+msgid "Open the linked document in a new window or tab"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:704
+#: ../framework/custom-meta/shortcode-meta.php:824
+#: ../framework/custom-meta/shortcode-meta.php:1522
+msgid "Open the linked document in the same frame as it was clicked."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:705
+#: ../framework/custom-meta/shortcode-meta.php:825
+#: ../framework/custom-meta/shortcode-meta.php:1523
+msgid "Open the linked document in the parent frameset"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:706
+#: ../framework/custom-meta/shortcode-meta.php:826
+#: ../framework/custom-meta/shortcode-meta.php:1524
+msgid "Open the linked document in the full body of the window"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:739
+msgid "Highlight"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:743
+#: ../framework/custom-meta/shortcode-meta.php:769
+#: ../framework/custom-meta/shortcode-meta.php:864
+msgid "BG Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:749
+#: ../framework/custom-meta/shortcode-meta.php:775
+#: ../framework/custom-meta/shortcode-meta.php:882
+#: ../framework/custom-meta/shortcode-meta.php:1105
+msgid "Text Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:755
+msgid "Highlight Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:765
+msgid "Fancy Heading"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:781
+msgid "Fancy Heading Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:795
+msgid "Button"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:799
+msgid "Id (optional)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:805
+msgid "Class (optional)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:811
+#: ../framework/custom-meta/shortcode-meta.php:1509
+msgid "Link"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:870
+msgid "Hover BG Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:876
+msgid "Hover Text Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:888
+msgid "Button Size"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:900
+msgid "Full (optional)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:902
+msgid "Check this if you wish to display the button in full width."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:907
+msgid "Button Width"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:910
+#: ../framework/custom-meta/shortcode-meta.php:987
+#: ../framework/custom-meta/shortcode-meta.php:1208
+#: ../framework/custom-meta/shortcode-meta.php:1285
+#: ../framework/custom-meta/shortcode-meta.php:1630
+#, php-format
+msgid "Use % or px as units for width, do not leave only numbers."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:915
+msgid "Button Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:925
+#: ../framework/custom-meta/shortcode-meta.php:955
+msgid "Divider"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:930
+msgid "Divider With Top Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:935
+msgid "Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:936
+msgid "Enter The Divider Text."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:948
+msgid "Clear Both"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:962
+msgid "Divider With Line"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:968
+msgid "Divider With Space"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:980
+#: ../framework/custom-post/reservations.php:53
+msgid "Table"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:984
+msgid "Table Width"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1003
+msgid "Table Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1006
+msgid ""
+"For Table use HTML Elements &lt;table&gt;&lt;tr&gt;&lt;td>content&lt;/"
+"td>&lt;/tr>&lt;/table>"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1014
+msgid "Toggle"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1018
+msgid "Toggle Heading"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1025
+msgid "Toggle Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1035
+msgid "Fancy Toggle"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1039
+msgid "Fancy Toggle. Heading"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1046
+msgid "Fancy Toggle. Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1056
+msgid "Boxes"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1063
+msgid "Fancy Box"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1067
+#: ../framework/custom-meta/shortcode-meta.php:1132
+#: ../framework/custom-meta/shortcode-meta.php:1487
+#: ../framework/custom-meta/shortcode-meta.php:2290
+#: ../framework/custom-meta/shortcode-meta.php:2352
+#: ../framework/custom-post/slider.php:41
+msgid "Title"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1074
+#: ../framework/custom-meta/shortcode-meta.php:1139
+msgid "Large Heading"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1081
+#: ../framework/custom-meta/shortcode-meta.php:1152
+msgid "Title BG Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1087
+#: ../framework/custom-meta/shortcode-meta.php:1146
+msgid "Title Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1093
+#: ../framework/custom-meta/shortcode-meta.php:1185
+msgid "Border Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1099
+msgid "Box BG Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1111
+#: ../framework/custom-meta/shortcode-meta.php:1158
+#: ../framework/custom-meta/shortcode-meta.php:1198
+msgid "Corner Ribbon"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1114
+#: ../framework/custom-meta/shortcode-meta.php:1161
+#: ../framework/custom-meta/shortcode-meta.php:1201
+msgid "Corner Ribbon (Range from 01 - 64)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1118
+#: ../framework/custom-meta/shortcode-meta.php:1165
+#: ../framework/custom-meta/shortcode-meta.php:1219
+msgid "Box Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1128
+msgid "Minimal Box"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1175
+msgid "Framed Box"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1191
+msgid "Padding"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1194
+msgid ""
+"You can use any valid value for CSS padding property (default: 20px 20px "
+"20px 20px)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1212
+#: ../framework/custom-meta/shortcode-meta.php:1554
+#: ../framework/custom-meta/shortcode-meta.php:1580
+#: ../framework/custom-meta/shortcode-meta.php:1634
+#: ../framework/custom-meta/shortcode-meta.php:2083
+#: ../framework/custom-meta/shortcode-meta.php:2189
+msgid "Height"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1215
+#: ../framework/custom-meta/shortcode-meta.php:1637
+#, php-format
+msgid "Use % or px as units for height, do not leave only numbers."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1230
+msgid "Message Box"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1234
+msgid "Message Type"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1235
+msgid "Choose the Message Box Type Error, Notice, Success etc"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1239
+msgid "Error"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1240
+msgid "Info"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1241
+msgid "Alert"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1242
+msgid "Success"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1243
+msgid "Download"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1248
+#: ../framework/custom-meta/shortcode-meta.php:1289
+msgid "Message Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1249
+msgid "Type the content you wish to display for the message box"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1259
+msgid "Note Box"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1263
+msgid "Title (Optional)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1270
+#: ../framework/custom-meta/shortcode-meta.php:1535
+msgid "Align (Optional)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1282
+msgid "Width (Optional)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1301
+msgid "Tabs"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1306
+msgid "Tab 2"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1310
+#: ../framework/custom-meta/shortcode-meta.php:1379
+msgid "Tab 1 Title"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1317
+#: ../framework/custom-meta/shortcode-meta.php:1386
+msgid "Tab 1 Bgcolor"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1323
+#: ../framework/custom-meta/shortcode-meta.php:1392
+msgid "Tab 1 Title Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1329
+#: ../framework/custom-meta/shortcode-meta.php:1398
+msgid "Tab 1 Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1336
+#: ../framework/custom-meta/shortcode-meta.php:1405
+msgid "Tab 2 Title"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1343
+#: ../framework/custom-meta/shortcode-meta.php:1412
+msgid "Tab 2 Bgcolor"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1349
+#: ../framework/custom-meta/shortcode-meta.php:1418
+msgid "Tab 2 Title Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1355
+#: ../framework/custom-meta/shortcode-meta.php:1424
+msgid "Tab 2 Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1361
+#: ../framework/custom-meta/shortcode-meta.php:1455
+msgid "Tabs Type "
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1366
+#: ../framework/custom-meta/shortcode-meta.php:1460
+msgid "Vertical"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1367
+#: ../framework/custom-meta/shortcode-meta.php:1461
+msgid "Horizontal"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1375
+msgid "Tab 3"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1430
+msgid "Tab 3 Title"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1437
+msgid "Tab 3 Bgcolor"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1443
+msgid "Tab 3 Title Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1449
+msgid "Tab 3  Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1476
+msgid "Image"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1480
+#: ../framework/custom-meta/shortcode-meta.php:1612
+msgid "Image URL"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1494
+msgid "Caption"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1501
+#: ../framework/custom-meta/shortcode-meta.php:1587
+msgid "Class"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1516
+msgid "Link Target (optional)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1529
+msgid "Lightbox"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1550
+#: ../framework/custom-meta/shortcode-meta.php:1557
+#, php-format
+msgid "Do not use % or px as units for height, Write only numbers"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1568
+msgid "Mini Gallery"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1576
+#, php-format
+msgid "Do not use % or px as units for width, Write only numbers."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1583
+#, php-format
+msgid "Do not use % or px as units for height, Write only numbers."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1608
+msgid "Photo Frame"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1619
+msgid "Alt"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1646
+msgid "Galleria"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1653
+msgid "Attachment"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1659
+#: ../framework/custom-meta/shortcode-meta.php:1731
+msgid "Width "
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1661
+#: ../framework/custom-meta/shortcode-meta.php:1733
+msgid "Enter the Width"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1668
+#: ../framework/custom-meta/shortcode-meta.php:1740
+msgid "Height "
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1670
+#: ../framework/custom-meta/shortcode-meta.php:1742
+msgid "Enter the Height"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1678
+#: ../framework/custom-meta/shortcode-meta.php:1750
+msgid "Transition"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1693
+#: ../framework/custom-meta/shortcode-meta.php:1765
+msgid "Autoplay"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1725
+msgid "External Images"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1809
+msgid "Widgets"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1816
+msgid "Contact Form"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1820
+msgid "Email Id"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1827
+msgid "Success Message"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1830
+msgid "Enter Success Message"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1839
+msgid "Twitter"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1843
+msgid "Twitter Id"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1851
+msgid "consumerkey"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1859
+msgid "Consumer Secret"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1867
+msgid "Access Token"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1875
+msgid "Access Token Secret"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1883
+#: ../framework/custom-meta/shortcode-meta.php:1907
+#: ../framework/custom-meta/shortcode-meta.php:1945
+#: ../framework/custom-meta/shortcode-meta.php:1966
+msgid "Limit"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1895
+msgid "Flickr"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1899
+msgid "Flickr Id"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1902
+msgid ""
+"Flickr ID: <small>find your Id from <a href=\"http://idgettr.com\" target="
+"\"_blank\">idGettr</a></small>"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1911
+msgid "Flickr Photos Limit."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1915
+#: ../framework/includes/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1917
+msgid "Choose Photos Type"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1920
+msgid "User"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1921
+msgid "Group"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1926
+msgid "Display"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1928
+msgid "Choose Display Type"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1931
+msgid "Random"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1932
+msgid "Latest"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1941
+msgid "Popular Posts"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1952
+#: ../framework/custom-meta/shortcode-meta.php:1983
+#: ../framework/custom-meta/shortcode-meta.php:2359
+#: ../framework/custom-post/slider.php:45
+msgid "Thumbnail"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1962
+msgid "Recent Posts"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1994
+msgid "Contact Info"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2005
+#: ../framework/custom-meta/shortcode-meta.php:2091
+msgid "Address"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2012
+msgid "State"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2019
+msgid "City"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2026
+msgid "Zip"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2033
+msgid "Phone"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2040
+msgid "Mobile"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2047
+msgid "Website URL"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2055
+#: ../framework/widgets/contactform.php:56
+msgid "Email"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2071
+msgid "Google map"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2100
+msgid "Latitude"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2107
+msgid "longitude"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2114
+msgid "Zoom"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2122
+msgid "Marker Description"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2130
+msgid "Info Window"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2138
+msgid "Controller"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2146
+msgid "Google map stylers Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2153
+msgid "Gmap Types"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2170
+msgid "Video"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2178
+msgid "Vimeo"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2196
+msgid "Clip id"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2199
+msgid "The number from the clips URL (e.g. http://vimeo.com/123456)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2203
+msgid "Byline"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2210
+msgid "title"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2217
+msgid "Portrait"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2224
+msgid "autoplay"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2231
+msgid "loop"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2237
+msgid "html5"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2250
+msgid "Today Special"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2254
+msgid "Todayspecial Limit"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2256
+#: ../framework/custom-meta/shortcode-meta.php:2330
+msgid "Number of items to show per page"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2261
+msgid "More Button Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2263
+msgid "Read More Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2268
+msgid "Content Limits"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2270
+#: ../framework/custom-meta/shortcode-meta.php:2338
+msgid "Enter the content character limits (default : 200)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2275
+msgid "Image Height(Optional)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2277
+msgid "Enter the Image height"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2282
+msgid "Tags (optional)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2285
+msgid "Hold Control/Command key to select multiple tags"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2292
+msgid "If the option is on, it will display title of item."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2297
+#: ../framework/custom-meta/shortcode-meta.php:2373
+msgid "Description"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2299
+msgid "If the option is on, it will display description of item."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2304
+#: ../framework/custom-meta/shortcode-meta.php:2380
+msgid "Pagination"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2306
+msgid "If the option is on, it will display pagination, displaying all posts."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2311
+msgid "Display More Button"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2313
+msgid "If the option is on, readmore button will display on item."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2324
+#: ../framework/custom-post/menus.php:14
+msgid "Food Menu"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2328
+msgid "Menu Items Limit"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2336
+msgid "Character Limits"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2344
+msgid "Categories (optional)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2347
+msgid "Multiple Categories "
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2354
+msgid "If the option is checked, it will display title of Item."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2361
+msgid "If the option is checked, it will display thumbnail"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2366
+msgid "Title Link"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2368
+msgid ""
+"If the option is checked, It will display the title href link to its post."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2375
+msgid "If the option is checked, it will display description of Item."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2382
+msgid ""
+"If the option is checked, it will display pagination, displaying all posts."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2387
+msgid "Two Columns"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2389
+msgid "If the option is checked, it will display the list in 2 columns layout."
+msgstr ""
+
+#: ../framework/custom-post/menus.php:13
+msgid "Food Items"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:15
+msgid "Add Food Item"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:16
+msgid "Add New Food Item"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:17
+msgid "Edit Food Item"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:18
+msgid "New Food Item"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:19
+msgid "View Food Item"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:20
+msgid "Search Food Item"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:21
+#: ../framework/custom-post/reservations.php:17
+msgid "Nothing found"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:22
+#: ../framework/custom-post/reservations.php:18
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:24
+msgid "All Items"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:47 ../framework/custom-post/menus.php:48
+#: ../framework/custom-post/menus.php:56
+msgid "Menu Category"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:49
+msgid "Search Menu Category"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:50
+msgid "Parent Menu Category "
+msgstr ""
+
+#: ../framework/custom-post/menus.php:51
+msgid "Parent Menu Category :"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:52
+msgid "Edit Menu Category "
+msgstr ""
+
+#: ../framework/custom-post/menus.php:53
+msgid "Update Menu Category"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:54
+msgid "Add Menu Category"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:55
+msgid "New Menu Category "
+msgstr ""
+
+#: ../framework/custom-post/menus.php:76
+#, php-format
+msgid "Food Item Updated. <a href=\"%s\">View Item</a>"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:77
+msgid "Custom Field Updated."
+msgstr ""
+
+#: ../framework/custom-post/menus.php:78
+msgid "Custom Field Deleted."
+msgstr ""
+
+#: ../framework/custom-post/menus.php:79
+msgid "Food Item Updated."
+msgstr ""
+
+#: ../framework/custom-post/menus.php:81
+#, php-format
+msgid "Food Item restored to revision from %s"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:82
+#, php-format
+msgid "Food Item published. <a href=\"%s\">View Food Item</a>"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:83
+msgid "Food Item saved."
+msgstr ""
+
+#: ../framework/custom-post/menus.php:84
+#, php-format
+msgid ""
+"Food Item submitted. <a target=\"_blank\" href=\"%s\">Preview Food Item</a>"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:85
+#, php-format
+msgid ""
+"Food Item draft updated. <a target=\"_blank\" href=\"%s\">Preview Food Item</"
+"a>"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:92
+msgid "Menus"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:93
+msgid "Price"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:94
+msgid "Post Image"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:140
+msgid "Menu Category Image URL"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:142
+msgid ""
+"Image for Menu Category, use full url including http:// - It will be "
+"displayed on Menu Page Template."
+msgstr ""
+
+#: ../framework/custom-post/menus.php:146
+#: ../framework/custom-post/menus.php:168
+msgid "Display Order"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:148
+#: ../framework/custom-post/menus.php:171
+msgid "The order in which this menu is displayed"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:161
+msgid "Menutype Image URL"
+msgstr ""
+
+#: ../framework/custom-post/menus.php:164
+msgid ""
+"Image for Menutype, use full url including http:// - It will be displayed on "
+"menu types page."
+msgstr ""
+
+#: ../framework/custom-post/reservations.php:9
+#: ../framework/custom-post/reservations.php:10
+msgid "Reservations"
+msgstr ""
+
+#: ../framework/custom-post/reservations.php:11
+#: ../framework/custom-post/reservations.php:12
+#: ../framework/custom-post/slider.php:11
+msgid "Add New"
+msgstr ""
+
+#: ../framework/custom-post/reservations.php:13
+msgid "Edit Reservations"
+msgstr ""
+
+#: ../framework/custom-post/reservations.php:14
+msgid "New Reservations "
+msgstr ""
+
+#: ../framework/custom-post/reservations.php:15
+msgid "View Reservations "
+msgstr ""
+
+#: ../framework/custom-post/reservations.php:16
+msgid "Search Reservations"
+msgstr ""
+
+#: ../framework/custom-post/reservations.php:54
+msgid "Members"
+msgstr ""
+
+#: ../framework/custom-post/reservations.php:55
+msgid "Reserved On"
+msgstr ""
+
+#: ../framework/custom-post/reservations.php:56
+#: ../framework/includes/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:9
+#: ../framework/custom-post/slider.php:10
+msgid "Slider"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:12
+msgid "Add New Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:13
+msgid "Edit Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:14
+msgid "New Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:15
+msgid "View Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:16
+msgid "Search Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:17
+msgid "No Slider found"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:18
+msgid "No Slider found in Trash"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:42
+msgid "Author"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:43
+msgid "Date"
+msgstr ""
+
+#: ../framework/includes/class-activation.php:79
+#: ../framework/includes/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/includes/class-activation.php:80
+#: ../framework/includes/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/includes/class-activation.php:81
+#: ../framework/includes/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/includes/class-activation.php:82
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/includes/class-activation.php:93
+#: ../framework/includes/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/includes/class-activation.php:94
+#: ../framework/includes/class-tgm-plugin-activation.php:171
+#: ../framework/includes/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/includes/class-activation.php:95
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1950
+#: ../framework/includes/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1950
+#: ../framework/includes/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/includes/multiwalker.php:9
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: ../framework/includes/multiwalker.php:27
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: ../framework/includes/submitform.php:42
+msgid "Your message was successfully sent."
+msgstr ""
+
+#: ../framework/shortcode/contactform.php:25
+#: ../framework/shortcode/contactform.php:38
+#: ../framework/widgets/contactform.php:58
+msgid "Captcha"
+msgstr ""
+
+#: ../framework/shortcode/contactform.php:26
+#: ../framework/shortcode/contactform.php:41
+#: ../framework/widgets/contactform.php:62
+msgid "Submit"
+msgstr ""
+
+#: ../framework/shortcode/contactform.php:37
+#: ../framework/widgets/contactform.php:57
+msgid "Message"
+msgstr ""
+
+#: ../framework/shortcode/foodmenu.php:10
+#: ../framework/shortcode/todayspecial.php:12
+msgid ""
+"Sorry but we could not find what you were looking for. But don'\\t give up, "
+"keep at it"
+msgstr ""
+
+#: ../framework/widgets/business_hours.php:23
+msgid "Display Business Hours ."
+msgstr ""
+
+#: ../framework/widgets/business_hours.php:174
+#: ../framework/widgets/contactform.php:95
+#: ../framework/widgets/contactinfo.php:120 ../framework/widgets/flickr.php:78
+#: ../framework/widgets/gmap.php:136 ../framework/widgets/popularpost.php:130
+#: ../framework/widgets/recentpost.php:123
+#: ../framework/widgets/reservation.php:277
+#: ../framework/widgets/sociable.php:73
+msgid "Title:"
+msgstr ""
+
+#: ../framework/widgets/business_hours.php:180
+msgid ""
+"Check this if you wish to group the days, if time for the days are same.?"
+msgstr ""
+
+#: ../framework/widgets/contactform.php:18
+msgid "Quick Contact Form widget for sidebar"
+msgstr ""
+
+#: ../framework/widgets/contactform.php:25
+msgid " - Contact Form"
+msgstr ""
+
+#: ../framework/widgets/contactform.php:59
+msgid "Case Sensitive"
+msgstr ""
+
+#: ../framework/widgets/contactform.php:100
+msgid "Email:"
+msgstr ""
+
+#: ../framework/widgets/contactform.php:104
+msgid "Success Message:"
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:24
+msgid "Add Contact Info to your widget  ."
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:124
+msgid "Name:"
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:128
+msgid "Address:"
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:132
+msgid "City:"
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:136
+msgid "State:"
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:140
+msgid "Zip Code:"
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:144
+msgid "Phone:"
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:148
+msgid "E-mail:"
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:152
+msgid "Website:"
+msgstr ""
+
+#: ../framework/widgets/flickr.php:23
+msgid "Use this widget to display your flickr gallery."
+msgstr ""
+
+#: ../framework/widgets/flickr.php:82
+msgid ""
+"Flickr ID: <small>Find your ID from <a href=\"http://idgettr.com\" target="
+"\"_blank\">idGettr</a></small>"
+msgstr ""
+
+#: ../framework/widgets/flickr.php:86
+msgid "How many photos you would like to display?:"
+msgstr ""
+
+#: ../framework/widgets/gmap.php:17
+msgid "Add Google Map to your sidebar  ."
+msgstr ""
+
+#: ../framework/widgets/gmap.php:140
+msgid "Latitude:"
+msgstr ""
+
+#: ../framework/widgets/gmap.php:144
+msgid "Longitude:"
+msgstr ""
+
+#: ../framework/widgets/gmap.php:148
+msgid "Zoom value from 1 to 19:"
+msgstr ""
+
+#: ../framework/widgets/gmap.php:170
+msgid "Height:"
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:25
+msgid ""
+"Use this widget to display Popular Posts by tags, Thumbnail Enable/Disable."
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:134
+#: ../framework/widgets/recentpost.php:127
+msgid "Extra Information:"
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:141
+#: ../framework/widgets/recentpost.php:134
+msgid "Length of Description to show::"
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:145
+#: ../framework/widgets/recentpost.php:138
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:149
+#: ../framework/widgets/recentpost.php:146
+msgid "Disable Post Thumbnail?"
+msgstr ""
+
+#: ../framework/widgets/recentpost.php:25
+msgid "Use this widget to display Recent Posts, Thumbnail Enable/Disable."
+msgstr ""
+
+#: ../framework/widgets/recentpost.php:142
+msgid "Exclude Categories <small>2,3,25</small>"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:9
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:19
+msgid ""
+"Custom HTML and Text that will appear in the teaser text of your Homepage "
+"below header."
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:40
+#: ../framework/widgets/register_widget.php:51
+#: ../framework/widgets/register_widget.php:62
+msgid "Select only one widget which will appear on your Forntpage column1"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:78
+msgid "Select only one widget which will appear on your Footer column1"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:88
+msgid "Select only one widget which will appear on your Footer column2"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:98
+msgid "Select only one widget which will appear on your Footer column3"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:108
+msgid "Select only one widget which will appear on your Footer column4"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:118
+msgid "Select only one widget which will appear on your Footer column5"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:128
+msgid "Select only one widget which will appear on your Footer column6"
+msgstr ""
+
+#: ../framework/widgets/reservation.php:23
+msgid "Table Reservation Widget for Sidebar or any Widgetized Area."
+msgstr ""
+
+#: ../framework/widgets/sociable.php:23
+msgid "Sociable widget for sidebar."
+msgstr ""
+
+#: ../framework/widgets/twitter.php:24
+msgid "Use this widget to display the latest tweet from twitter"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:103
+msgid "Twitter Title:"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:107
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:111
+msgid "Twitter Consumer key:"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:115
+msgid "Twitter Consumer Secret:"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:119
+msgid "Twitter Access Token:"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:123
+msgid "Twitter Access Token secret:"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:127
+msgid "Twitter Limits:"
+msgstr ""
+
+#: ../functions.php:147
+msgid "Primary Menu - Appear beside the Logo."
+msgstr ""
+
+#: ../header.php:35
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../loop-menus.php:60
+msgid "Edit Item"
+msgstr ""
+
+#: ../loop-menus.php:74 ../loop-single.php:72 ../loop-taxonomy.php:58
+#: ../loop.php:60 ../search.php:65 ../template_blog-style1.php:93
+#: ../template_blog-style2.php:88 ../template_blog-style3.php:97
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../loop-single.php:14 ../loop-taxonomy.php:41 ../loop.php:16
+#: ../search.php:36 ../template_blog-style1.php:58
+#: ../template_blog-style2.php:61 ../template_blog-style3.php:70
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../loop.php:23
+msgid "0 Comments"
+msgstr ""
+
+#: ../page.php:33
+msgid "Pages:"
+msgstr ""
+
+#: ../search.php:15
+msgid "Search Results for"
+msgstr ""
+
+#: ../sidebar-home.php:34
+msgid "Meta"
+msgstr ""
+
+#: ../tag.php:48
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: ../template_sitemap.php:43
+msgid "Feeds"
+msgstr ""

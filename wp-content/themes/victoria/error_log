@@ -1,0 +1,70 @@
+[17-Apr-2020 09:55:24 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/404.php on line 1
+[25-Apr-2020 05:17:06 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/404.php on line 1
+[28-Sep-2020 14:20:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
+[01-Apr-2021 02:58:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
+[08-Apr-2021 06:10:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
+[12-Apr-2021 15:58:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
+[19-Apr-2021 22:12:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
+[27-Apr-2021 00:44:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
+[30-Apr-2021 00:40:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
+[30-Apr-2021 18:35:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
+[04-May-2021 19:18:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
+[10-May-2021 19:31:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
+[14-May-2021 10:58:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
+[17-May-2021 18:39:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
+[17-May-2021 21:13:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
+[22-May-2021 04:17:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/404.php on line 1
+[22-May-2021 08:52:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/404.php on line 1
+[24-May-2021 23:25:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
+[03-Aug-2021 21:10:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/esnsolutions/public_html/espospizzeria.com/wp-content/themes/victoria/index.php on line 13
